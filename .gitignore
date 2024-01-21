@@ -2,3 +2,6 @@
 mdd.db
 mdd.db-shm
 mdd.db-wal
+.DS_Store
+
+/junk/
